@@ -13,3 +13,10 @@
 3. Navigate to the project folder in your terminal
 4. Run the following command to install the required dependencies: `pip install -r requirements.txt`
 5. Finally, start the application by running `python main.py` or simply double click the main.py file
+
+## Installment via pip
+- Coming soon
+
+## To Do
+- Make it into a cli application
+- Upload to pypi

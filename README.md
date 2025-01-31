@@ -3,7 +3,7 @@
 ## Prerequisites
 - Python 3.11 and higher installed
 - Tetr.io bot account (ask Osk)
-- Twitch oauth login
+- Twitch Application (Create one (here)[https://dev.twitch.tv/console/apps/create]. Make sure to set the redirect link to `http://localhost:17563` !!!)
 
 ## How to Install
 1. Download this repository as a .zip file

@@ -1,5 +1,8 @@
 # TwitchLink
 
+## Disclaimer
+- **IF YOU USE A REAL PLAYER ACCOUNT INSTEAD OF A BOT ACCOUNT, IT WILL AUTOMATICALLY GET IRREVERSELY BANNED. IM NOT RESPONSIBLE FOR ANY BANS OR KICKS CAN HAPPEN BECAUSE OF IMPROPER USAGE**
+
 ## Prerequisites
 - Python 3.11 and higher installed
 - Tetr.io bot account (ask Osk)

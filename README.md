@@ -5,7 +5,7 @@
 
 ## Prerequisites
 - Python 3.11 and higher installed
-- tetr.io bot account (ask osk or email support)
+- tetr.io bot account (email support at support@tetr.io)
 - Twitch Application (Create one [here](https://dev.twitch.tv/console/apps/create). Make sure to set the redirect link to `http://localhost:17563` !!!)
 
 ## How to Install

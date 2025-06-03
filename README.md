@@ -1,7 +1,7 @@
 # TwitchLink
 
 ## Disclaimer
-- **IF YOU USE A REAL PLAYER ACCOUNT INSTEAD OF A BOT ACCOUNT, IT WILL AUTOMATICALLY GET IRREVERSELY BANNED. IM NOT RESPONSIBLE FOR ANY BANS OR KICKS CAN HAPPEN BECAUSE OF IMPROPER USAGE OF THIS SCRIPT.**
+  **IF YOU USE A REAL PLAYER ACCOUNT INSTEAD OF A BOT ACCOUNT, IT WILL AUTOMATICALLY GET IRREVERSELY BANNED. IM NOT RESPONSIBLE FOR ANY BANS OR KICKS CAN HAPPEN BECAUSE OF IMPROPER USAGE OF THIS SCRIPT.**
 
 ## Prerequisites
 - Python 3.11 and higher installed
@@ -16,10 +16,3 @@
 3. Navigate to the project folder in your terminal
 4. Run the following command to install the required dependencies: `pip install -r requirements.txt`
 5. Finally, start the application by running `python main.py` or simply double click the main.py file
-
-## Installment via pip
-- Coming soon
-
-## To Do
-- Make it into a cli application
-- Upload to pypi

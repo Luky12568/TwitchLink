@@ -18,7 +18,7 @@
 5. Finally, start the application by running `python main.py` or simply double click the main.py file
 
 ## Credits
-Thank you to:
-EncryptLuke (Luke) for the Ribbon handler library custom made for me
-osk and Tetr.io team for making Tetr.io and Tetr.io itself fun
-Anyone who inspired me to make this project and to continue in it even tho it's a waste of time
+Thank you to:  
+EncryptLuke (Luke) for the Ribbon handler library custom made for me  
+osk and Tetr.io team for making Tetr.io and Tetr.io itself fun  
+Anyone who inspired me to make this project and to continue in it even tho it's a waste of time  
